@@ -87,7 +87,7 @@ PicGo 默认只出现在顶部菜单栏，点击软件图标会显示已上传�
 
 将生成的 token 填写到第二节里的配置里，图床即可投入使用。
 
-###  
+
 
 ## 四、图床使用
 
@@ -109,4 +109,6 @@ PicGo 默认只出现在顶部菜单栏，点击软件图标会显示已上传�
 
 ---
 
-![](https://cdn.jsdelivr.net/gh/huayonglun/cdn_image001/img/gh_woniu.png)
+
+
+[我是蜗牛，Java 后端开发，正在互联网上疯狂爬行，欢迎一起来爬。我们下期再见！微信搜“蜗牛互联网”回复“1024”领取我整理的 Java 程序员必备的学习资料。](https://www.yuque.com/woniu666/tech_doc/about_woniu)
